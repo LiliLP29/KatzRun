@@ -1,0 +1,160 @@
+h1 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    Width: 1100px;
+    position: relative;
+    left: 100px;
+    bottom: 20px;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+ 
+#home {
+    width: 364px;
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    margin: -5px;
+}
+ 
+#home:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+/*These hover codes make each box on my nav bar flip the color of the background and the color of the text*/
+
+ 
+#red {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #ff3b3b;
+    text-decoration: none;
+    margin: -5x;
+}
+ 
+#red:hover {
+    background-color: white;
+    color:#ff3b3b;
+    text-decoration: none;
+}
+
+#yellow {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #4479ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#yellow:hover {
+    background-color: white;
+    color:#4479ff;
+    text-decoration: none;
+}
+ 
+#blue {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: #ff84f9;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#blue:hover {
+    background-color: white;
+    color: #ff84f9;
+    text-decoration: none;
+}
+
+#green {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:#7356ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#green:hover {
+    background-color: white;
+    color:#7356ff;
+    text-decoration: none;
+}
+
+h2 {
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+}
+
+.instruc {
+    display: inline-block;
+    padding: 20px;
+    Width: 100px;
+    text-align: center;
+    position: relative;
+    left: 300px;
+}
+
+p {
+    display: inline-block;
+    color:black;
+    width: 500px;
+    padding: 20px;
+    position:relative;
+    left: 100px;   
+    top: -100px;
+    font-size: larger;
+}
+
+.game1 {
+    position: relative;
+    top: -50px;
+    left: 200px;
+    width: 400px;
+    height: 300px;
+}
+
+.hints {
+    padding: 20px;
+    text-align: center;
+    Width: 100px;
+    position: relative;
+    bottom: 30px;
+    left: 900px;
+}
+
+.hints1 { 
+    padding: 20px;
+    Width: 500px;
+    position: relative;
+    bottom: 40px;
+    left: 700px;
+}
+
+ul li {
+    position: relative;
+    bottom: 40px;
+}
+
+.game2 {
+    position: relative;
+    right: 400px;
+    bottom: 400px;
+    width: 400px;
+    height: 300px;
+}

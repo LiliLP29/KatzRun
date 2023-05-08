@@ -1,0 +1,167 @@
+h1 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    Width: 1100px;
+    position: relative;
+    left: 100px;
+    bottom: 20px;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+#home {
+    width: 364px;
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    margin: -5px;
+}
+ 
+#home:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+/*These hover codes make each box on my nav bar flip the color of the background and the color of the text*/
+
+ 
+#red {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #ff3b3b;
+    text-decoration: none;
+    margin: -5x;
+}
+ 
+#red:hover {
+    background-color: white;
+    color:#ff3b3b;
+    text-decoration: none;
+}
+
+#yellow {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #4479ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#yellow:hover {
+    background-color: white;
+    color:#4479ff;
+    text-decoration: none;
+}
+ 
+#blue {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: #ff84f9;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#blue:hover {
+    background-color: white;
+    color: #ff84f9;
+    text-decoration: none;
+}
+
+#green {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:#7356ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#green:hover {
+    background-color: white;
+    color:#7356ff;
+    text-decoration: none;
+}
+
+h2 {
+    display: inline-block;
+    padding: 20px;
+    Width: 1100px;
+    position: relative;
+    left: 90px;
+    bottom: 20px;
+    text-align: center;
+}
+
+form {
+    position: relative;
+    left: 120px;
+}
+
+h3 {
+    display: inline-block;
+    position:relative;
+    left: 700px;
+    bottom: 400px;
+}
+
+.com {
+    display: inline-block;
+    border: black solid 2px;
+    color:black;
+    width: 300px;
+    padding: 20px;
+    position:relative;
+    left: 160px;   
+    bottom: 300px;
+}
+
+.com1 {
+    display: inline-block;
+    border: black solid 2px;
+    color:black;
+    width: 300px;
+    padding: 20px;
+    position:relative;
+    left: 180px;   
+    bottom: 300px;
+}
+
+.com2 {
+    display: inline-block;
+    border: black solid 2px;
+    color:black;
+    width: 300px;
+    padding: 20px;
+    position:relative;
+    left: 520px;   
+    bottom: 300px;
+}
+
+.com3 {
+    display: inline-block;
+    border: black solid 2px;
+    color:black;
+    width: 300px;
+    padding: 20px;
+    position:relative;
+    left: 540px;   
+    bottom: 300px;
+}
+
+.lines {
+    position: relative;
+    bottom: 280px;
+    right: 40px;
+    width: 1400px;
+}

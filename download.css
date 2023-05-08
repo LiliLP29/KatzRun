@@ -1,0 +1,122 @@
+h1 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    Width: 1100px;
+    position: relative;
+    left: 100px;
+    bottom: 20px;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+#home {
+    width: 364px;
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    margin: -5px;
+}
+ 
+#home:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+/*These hover codes make each box on my nav bar flip the color of the background and the color of the text*/
+
+ 
+#red {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #ff3b3b;
+    text-decoration: none;
+    margin: -5x;
+}
+ 
+#red:hover {
+    background-color: white;
+    color:#ff3b3b;
+    text-decoration: none;
+}
+
+#blue {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #4479ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#blue:hover {
+    background-color: white;
+    color:#4479ff;
+    text-decoration: none;
+}
+ 
+#pink {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: #ff84f9;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#pink:hover {
+    background-color: white;
+    color: #ff84f9;
+    text-decoration: none;
+}
+
+#purple {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:#7356ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#purple:hover {
+    background-color: white;
+    color:#7356ff;
+    text-decoration: none;
+}
+
+h2 {
+    position: relative;
+    left: 100px;
+    top:50px;
+}
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+  .link {
+    color:white;
+    text-decoration: none;
+  }

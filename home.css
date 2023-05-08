@@ -1,0 +1,210 @@
+h1 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    Width: 1100px;
+    position: relative;
+    left: 100px;
+    bottom: 20px;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+ 
+#home {
+    width: 364px;
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    margin: -5px;
+}
+ 
+#home:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+/*These hover codes make each box on my nav bar flip the color of the background and the color of the text*/
+
+ 
+#red {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #ff3b3b;
+    text-decoration: none;
+    margin: -5x;
+}
+ 
+#red:hover {
+    background-color: white;
+    color:#ff3b3b;
+    text-decoration: none;
+}
+
+#yellow {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:  #4479ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#yellow:hover {
+    background-color: white;
+    color:#4479ff;
+    text-decoration: none;
+}
+ 
+#blue {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color: #ff84f9;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#blue:hover {
+    background-color: white;
+    color: #ff84f9;
+    text-decoration: none;
+}
+
+#green {
+    border: black solid 2px;
+    padding: 20px 80px 20px 80px;
+    color: white;
+    background-color:#7356ff;
+    text-decoration: none;
+    margin: -5px;
+}
+
+#green:hover {
+    background-color: white;
+    color:#7356ff;
+    text-decoration: none;
+}
+
+.abt {
+    border: black solid 2px;
+    color:black;
+    width: 1100px;
+    padding: 20px;
+    position:relative;
+    left: 100px;   
+}
+
+.makers {
+    display: inline-block;
+    border: black solid 2px;
+    color:black;
+    width: 500px;
+    padding: 40px;
+    position: relative;
+    left: -90px;
+    bottom:200px;   
+}
+
+.meet {
+    display: inline-block;
+    position:relative;
+    left: 300px;
+    bottom:350px;
+}
+
+.abt1 {
+    position:relative;
+    left: 300px;
+    bottom: 100px;
+}
+
+.abt2 {
+    display: inline-block;
+    border: black solid 2px;
+    color:black;
+    width: 500px;
+    padding: 20px;
+    position:relative;
+    left: 120px;   
+    bottom: 100px;
+}
+
+h3 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    Width: 100px;
+    text-align: center;
+}
+
+.lili {
+    display: inline-block;
+    position:relative;
+    left: 800px;
+    bottom: 100px;
+}
+
+.autumn {
+    display: inline-block;
+    position: relative;
+    left: 900px;
+    bottom: 100px;
+}
+
+.chelsea {
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
+
+.maddy {
+    display: inline-block;
+    position: relative;
+    left: 610px;
+    top: 200px;
+}
+
+.l {
+    display: inline-block;
+    position: relative;
+    left: 210px;
+    top: 100px;
+    height: 150px;
+    width: 150px;
+}
+
+.a {
+    display: inline-block;
+    position: relative;
+    left: 290px;
+    top: 100px;
+    width:180px;
+    height:140px;
+}
+
+.c {
+    display: inline-block;
+    position: relative;
+    right: 135px;
+    top: 450px;
+    width:140px;
+    height:200px;
+}
+
+.m {
+    display: inline-block;
+    position: relative;
+    right:20px;
+    top: 450px;
+    height: 200px;
+    width: 130px;
+}
